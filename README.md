@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=35&duration=3000&pause=1000&color=C500FF&width=690&height=55&lines=Soy+'SS3K';Soy+estudiante+autodidacta;Soy+entusiasta+de+la+tecnolog%C3%ADa)](https://git.io/typing-svg)
 
-[![Hack The Planet](https://img.shields.io/badge/-HACK%20THE%20PLANET-%232BF72D?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://github.com/tuusuario)
+[!](https://img.shields.io/badge/-HACK%20THE%20PLANET-%232BF72D?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://github.com/0xSS3K)
 
 <details>
 <summary><kbd>📡 Contacto (Click para desplegar)</kbd></summary>

@@ -1,10 +1,7 @@
 <!-- Ejemplo con GIF centrado -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo2and2MTJrZmtqZDA3eXpmZDd6aWdvd3Y4M2twaXg3MGFuYnB2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="800" alt="Matrix Code">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo2and2MTJrZmtqZDA3eXpmZDd6aWdvd3Y4M2twaXg3MGFuYnB2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="900" alt="Matrix Code">
 </p>
-
-<!-- GIF con enlace -->
-[![Hack](https://gifer.com/en/MVOE)](https://github.com/tuusuario)
 
 `$ whoami` 
 

@@ -1,6 +1,6 @@
 <!-- Ejemplo con GIF centrado -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo2and2MTJrZmtqZDA3eXpmZDd6aWdvd3Y4M2twaXg3MGFuYnB2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="900" alt="Matrix Code">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW8ycm5lZWRzMmlnMmV1c3JqZXE5a2lxZGZ5ZDdoNTh3bm8yenZ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vw6BKdf2jKyR2lk9sw/giphy.gif" width="900" alt="Matrix Code">
 </p>
 
 `$ whoami` 

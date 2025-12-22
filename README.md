@@ -15,5 +15,3 @@ Soy SS3K, un entusiasta de la ciberseguridad ofensiva aspirante a pentester prof
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=2BF72D&lines=Loading+malware...;Initializing+payload...)](https://git.io/typing-svg)
 
-
-https://www.chilegen.cl/

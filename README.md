@@ -57,28 +57,14 @@ Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional
 
 <div align="center">
 
-<!-- TODO: pega tu HTB User ID (lo ves en la URL de tu perfil de HackTheBox) -->
-[![Hack The Box](https://www.hackthebox.com/badge/image/TU_HTB_ID)](https://app.hackthebox.com/profile/TU_HTB_ID)
 
-<br><br>
-
-<!-- TODO: pon tu usuario de TryHackMe. Este badge muestra tu rango y salas resueltas -->
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/TU_USUARIO_THM.png)
+[![Hack The Box](https://www.hackthebox.com/badge/image/019c3e7c-3769-7214-a368-3525a8cb594b)](https://app.hackthebox.com/profile/019c3e7c-3769-7214-a368-3525a8cb594b)
 
 </div>
 
 <details>
 <summary><code>$ ./stats.sh --github</code></summary>
-
 <br>
-
-<div align="center">
-
-<!-- Eres de seguridad, no dev: estas stats son secundarias. Borra el bloque si lo prefieres. -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSS3K&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=EF233C&icon_color=EF233C&text_color=c9d1d9)
-
-</div>
-
 </details>
 
 ---
@@ -89,16 +75,13 @@ Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional
 
 [![Web](https://img.shields.io/badge/chilegen.cl-161616?style=flat-square&logo=firefox&logoColor=EF233C&labelColor=0d0d0d)](https://chilegen.cl)
 [![Instagram](https://img.shields.io/badge/@_ss3k_-161616?style=flat-square&logo=instagram&logoColor=EF233C&labelColor=0d0d0d)](https://instagram.com/_ss3k_)
-<!-- TODO: añade los que uses -->
-<!-- [![X](https://img.shields.io/badge/@tu_handle-161616?style=flat-square&logo=x&logoColor=EF233C&labelColor=0d0d0d)](https://x.com/tu_handle) -->
-<!-- [![Email](https://img.shields.io/badge/contacto-161616?style=flat-square&logo=protonmail&logoColor=EF233C&labelColor=0d0d0d)](mailto:tu@correo.cl) -->
+
 
 </div>
 
 > [!TIP]
 > ¿Quieres ver cómo trabajo? Pronto subiré writeups de máquinas resueltas a un repo propio.
-> <!-- TODO: cuando lo tengas, enlázalo aquí. -->
-
+> 
 <div align="center">
 
 ```bash

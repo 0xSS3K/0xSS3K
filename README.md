@@ -58,13 +58,7 @@ Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional
 
 <div align="center">
 
-<!-- TODO: pega tu HTB User ID (lo ves en la URL de tu perfil de HackTheBox) -->
-[![Hack The Box](https://www.hackthebox.com/badge/image/TU_HTB_ID)](https://app.hackthebox.com/profile/TU_HTB_ID)
-
-<br><br>
-
-<!-- TODO: pon tu usuario de TryHackMe. Este badge muestra tu rango y salas resueltas -->
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/TU_USUARIO_THM.png)
+[![Hack The Box](https://www.hackthebox.com/badge/image/1646391)](https://app.hackthebox.com/profile/1646391)
 
 </div>
 

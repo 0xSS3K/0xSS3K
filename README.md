@@ -84,9 +84,7 @@ Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional
 
 [![Web](https://img.shields.io/badge/chilegen.cl-161616?style=flat-square&logo=firefox&logoColor=EF233C&labelColor=0d0d0d)](https://chilegen.cl)
 [![Instagram](https://img.shields.io/badge/@_ss3k_-161616?style=flat-square&logo=instagram&logoColor=EF233C&labelColor=0d0d0d)](https://instagram.com/_ss3k_)
-<!-- TODO: añade los que uses -->
-<!-- [![X](https://img.shields.io/badge/@tu_handle-161616?style=flat-square&logo=x&logoColor=EF233C&labelColor=0d0d0d)](https://x.com/tu_handle) -->
-<!-- [![Email](https://img.shields.io/badge/contacto-161616?style=flat-square&logo=protonmail&logoColor=EF233C&labelColor=0d0d0d)](mailto:tu@correo.cl) -->
+[!Linkedin](www.linkedin.com/in/bruno-g-493358364)
 
 </div>
 

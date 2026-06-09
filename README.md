@@ -12,7 +12,7 @@
 
 [![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d0d0d)](https://app.hackthebox.com/profile/1646391)
 
-[<img src="https://www.hackthebox.com/badge/image/1646391" alt="Hack The Box stats" width="270"/>](https://app.hackthebox.com/profile/1646391)
+[<img src="https://www.hackthebox.com/badge/image/1646391" alt="Hack The Box stats" width="200"/>](https://app.hackthebox.com/profile/1646391)
 
 </div>
 

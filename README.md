@@ -1,8 +1,3 @@
-<!-- ════════════════════════════════════════════════════════════
-     PERFIL DE GITHUB — 0xSS3K
-     Reemplaza lo que esté marcado con  <!-- TODO -->  por tus datos.
-════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 # `0xSS3K`
@@ -74,9 +69,9 @@ Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional
 <div align="center">
 
 <!-- TODO: pega tu HTB User ID para que aparezca tu badge de rango.
-     Lo sacas en tu perfil de HackTheBox -> Settings -> verás el ID en la URL.
+     Lo sacas en tu perfil de HackTheBox -> Settinhttps://profile.hackthebox.com/profile/019c3e7c-3769-7214-a368-3525a8cb594bgs -> verás el ID en la URL.
      Si no quieres mostrarlo, borra esta línea. -->
-[![Hack The Box](https://www.hackthebox.com/badge/image/TU_HTB_ID)](https://app.hackthebox.com/profile/TU_HTB_ID)
+[![Hack The Box](https://www.hackthebox.com/badge/image/019c3e7c-3769-7214-a368-3525a8cb594b)](https://profile.hackthebox.com/profile/019c3e7c-3769-7214-a368-3525a8cb594b)
 
 <br>
 

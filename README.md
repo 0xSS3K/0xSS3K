@@ -1,14 +1,8 @@
-<!-- ════════════════════════════════════════════════════════════
-     PERFIL DE GITHUB — 0xSS3K
-     Rellena lo marcado con  <!-- TODO -->  con tus datos.
-════════════════════════════════════════════════════════════ -->
-
-<!-- ░░ BANNER ░░ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d0d0d,100:8b0000&text=0xSS3K&fontColor=EF233C&fontSize=68&fontAlignY=36&desc=Offensive%20Security%20%C2%B7%20Pentester%20in%20training&descSize=16&descAlignY=56&descColor=c9d1d9&animation=fadeIn" width="100%" alt="0xSS3K"/>
 
-<!-- ░░ FILA DE ESTADO ░░ -->
+
 ![Status](https://img.shields.io/badge/STATUS-STUDYING-EF233C?style=for-the-badge&labelColor=0d0d0d)
 ![Target](https://img.shields.io/badge/TARGET-HTB_CPTS-EF233C?style=for-the-badge&labelColor=0d0d0d)
 ![Clearance](https://img.shields.io/badge/CLEARANCE-ETHICAL-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=2ea043)
@@ -22,7 +16,7 @@
 ### `$ whoami`
 
 ```
-Pentester en formación · Red Team mindset · Hecho en Chile 🇨🇱
+Pentester en formación · Red Team mindset · 🇨🇱
 ```
 
 Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional. Autodidacta, metódico y obsesionado con el *por qué* detrás de cada exploit. Aprendo cómo funcionan los ataques no para causar daño, sino para anticiparlos: si entiendo cómo se rompe un sistema, sé cómo defenderlo. Ahora mismo estoy de lleno preparando la **CPTS** y convirtiendo esta pasión en una carrera.

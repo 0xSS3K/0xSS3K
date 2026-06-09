@@ -70,7 +70,7 @@ Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional
 
 [![Web](https://img.shields.io/badge/chilegen.cl-161616?style=flat-square&logo=firefox&logoColor=EF233C&labelColor=0d0d0d)](https://chilegen.cl)
 [![Instagram](https://img.shields.io/badge/@_ss3k_-161616?style=flat-square&logo=instagram&logoColor=EF233C&labelColor=0d0d0d)](https://instagram.com/_ss3k_)
-[![LinkedIn](https://img.shields.io/badge/Bruno_G-161616?style=flat-square&logo=linkedin&logoColor=EF233C&labelColor=0d0d0d)](https://www.linkedin.com/in/bruno-g-493358364)
+[![LinkedIn](https://img.shields.io/badge/Bruno_G-161616?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0VGMjMzQyI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPgo=&labelColor=0d0d0d)](https://www.linkedin.com/in/bruno-g-493358364)
 
 </div>
 

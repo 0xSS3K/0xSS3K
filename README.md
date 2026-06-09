@@ -58,7 +58,7 @@ Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional
 <div align="center">
 
 
-[![Hack The Box](https://www.hackthebox.com/badge/image/019c3e7c-3769-7214-a368-3525a8cb594b)](https://app.hackthebox.com/profile/019c3e7c-3769-7214-a368-3525a8cb594b)
+[![Hack The Box](https://www.hackthebox.com/badge/image/019c3e7c-3769-7214-a368-3525a8cb594b)](https://profile.hackthebox.com/profile/019c3e7c-3769-7214-a368-3525a8cb594b)
 
 </div>
 

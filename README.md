@@ -23,20 +23,6 @@ Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional
 
 ---
 
-### `$ cat ~/focus.txt`
-
-> Preparándome para la **HTB Certified Penetration Testing Specialist (CPTS)** — certificación 100% práctica que cubre el ciclo completo de un pentest. Esto es lo que estoy afilando:
-
-- `[recon]`    Enumeración, footprinting y mapeo de superficie de ataque
-- `[web]`      Explotación de aplicaciones web (inyecciones, file upload, IDOR, etc.)
-- `[ad]`       Active Directory: enumeración y ataques (Kerberoasting, abuso de ACLs, lateral movement)
-- `[privesc]`  Escalada de privilegios en **Linux** y **Windows**
-- `[pivot]`    Pivoting y tunneling a través de redes internas
-- `[creds]`    Password attacks y cracking
-- `[report]`   Documentación y reporting profesional — un pentest sin informe no sirve de nada
-
----
-
 ### `$ ./arsenal.sh --list`
 
 **Lenguajes & scripting**

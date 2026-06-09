@@ -62,20 +62,6 @@ Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional
 
 </div>
 
-<details>
-<summary><code>$ ./stats.sh --github</code></summary>
-
-<br>
-
-<div align="center">
-
-<!-- Eres de seguridad, no dev: estas stats son secundarias. Borra el bloque si lo prefieres. -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSS3K&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=EF233C&icon_color=EF233C&text_color=c9d1d9)
-
-</div>
-
-</details>
-
 ---
 
 ### `$ ./contact.sh`
@@ -84,7 +70,7 @@ Entusiasta de la **ciberseguridad ofensiva** y aspirante a pentester profesional
 
 [![Web](https://img.shields.io/badge/chilegen.cl-161616?style=flat-square&logo=firefox&logoColor=EF233C&labelColor=0d0d0d)](https://chilegen.cl)
 [![Instagram](https://img.shields.io/badge/@_ss3k_-161616?style=flat-square&logo=instagram&logoColor=EF233C&labelColor=0d0d0d)](https://instagram.com/_ss3k_)
-[!Linkedin](www.linkedin.com/in/bruno-g-493358364)
+[![LinkedIn](https://img.shields.io/badge/Bruno_G-161616?style=flat-square&logo=linkedin&logoColor=EF233C&labelColor=0d0d0d)](https://www.linkedin.com/in/bruno-g-493358364)
 
 </div>
 

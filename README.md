@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://ss3k.ss3k.workers.dev">Blog</a> •
+  <a href="https://0xss3k.github.io">Blog</a> •
   <a href="https://www.linkedin.com/in/ss3k">LinkedIn</a> •
   <a href="https://app.hackthebox.com/public/users/1646391">Hack The Box</a> •
-  <a href="https://ss3k.ss3k.workers.dev/en">English</a>
+  <a href="https://0xss3k.github.io/en">English</a>
 </p>
 
 <br>
@@ -31,9 +31,9 @@
 
 | | |
 |---|---|
-| [![Informe IR](https://img.shields.io/static/v1?label=Informe%20IR&message=IcedID%20%C2%B7%20PCAP%20forense&style=for-the-badge&labelColor=0d1117&color=1f6feb)](https://ss3k.ss3k.workers.dev/posts/informe-forense-pcap-icedid) <br/><sub>Wireshark, Zeek y Suricata: línea de tiempo, IoC, ATT&CK y reglas probadas.</sub> | [![CVE-2024-10914](https://img.shields.io/static/v1?label=CVE-2024-10914&message=PoC%20command%20injection&style=for-the-badge&labelColor=0d1117&color=8b0000)](https://github.com/0xSS3K/CVE-2024-10914__POC) <br/><sub>Exploit en Python hasta ejecución remota de comandos.</sub> |
-| [![HTB Yummy](https://img.shields.io/static/v1?label=HTB%20Yummy&message=Hard%20%C2%B7%20JWT%20forjado%20a%20root&style=for-the-badge&labelColor=0d1117&color=8b0000)](https://ss3k.ss3k.workers.dev/posts/htb-yummy) <br/><sub>Clave RSA débil, SQLi con escritura de archivos y abuso de crons.</sub> | [![LFMY-XSS](https://img.shields.io/static/v1?label=LFMY-XSS&message=Stored%20XSS%20scanner&style=for-the-badge&labelColor=0d1117&color=8b0000)](https://github.com/0xSS3K/LFMY-XSS) <br/><sub>Herramienta semiautomática en Python y Selenium.</sub> |
-| [![OSINT Chile](https://img.shields.io/static/v1?label=OSINT%20Chile&message=21%20estrellas&style=for-the-badge&labelColor=0d1117&color=30363d)](https://github.com/0xSS3K/OSINT-CHILE) <br/><sub>Guía de fuentes abiertas específicas de Chile.</sub> | [![Blog](https://img.shields.io/static/v1?label=M%C3%A1s%20en%20el%20blog&message=ss3k.ss3k.workers.dev&style=for-the-badge&labelColor=0d1117&color=d9a441)](https://ss3k.ss3k.workers.dev) <br/><sub>Write-ups, metodologías y notas de estudio.</sub> |
+| [![Informe IR](https://img.shields.io/static/v1?label=Informe%20IR&message=IcedID%20%C2%B7%20PCAP%20forense&style=for-the-badge&labelColor=0d1117&color=1f6feb)](https://0xss3k.github.io/posts/informe-forense-pcap-icedid) <br/><sub>Wireshark, Zeek y Suricata: línea de tiempo, IoC, ATT&CK y reglas probadas.</sub> | [![CVE-2024-10914](https://img.shields.io/static/v1?label=CVE-2024-10914&message=PoC%20command%20injection&style=for-the-badge&labelColor=0d1117&color=8b0000)](https://github.com/0xSS3K/CVE-2024-10914__POC) <br/><sub>Exploit en Python hasta ejecución remota de comandos.</sub> |
+| [![HTB Yummy](https://img.shields.io/static/v1?label=HTB%20Yummy&message=Hard%20%C2%B7%20JWT%20forjado%20a%20root&style=for-the-badge&labelColor=0d1117&color=8b0000)](https://0xss3k.github.io/posts/htb-yummy) <br/><sub>Clave RSA débil, SQLi con escritura de archivos y abuso de crons.</sub> | [![LFMY-XSS](https://img.shields.io/static/v1?label=LFMY-XSS&message=Stored%20XSS%20scanner&style=for-the-badge&labelColor=0d1117&color=8b0000)](https://github.com/0xSS3K/LFMY-XSS) <br/><sub>Herramienta semiautomática en Python y Selenium.</sub> |
+| [![OSINT Chile](https://img.shields.io/static/v1?label=OSINT%20Chile&message=21%20estrellas&style=for-the-badge&labelColor=0d1117&color=30363d)](https://github.com/0xSS3K/OSINT-CHILE) <br/><sub>Guía de fuentes abiertas específicas de Chile.</sub> | [![Blog](https://img.shields.io/static/v1?label=M%C3%A1s%20en%20el%20blog&message=0xss3k.github.io&style=for-the-badge&labelColor=0d1117&color=d9a441)](https://0xss3k.github.io) <br/><sub>Write-ups, metodologías y notas de estudio.</sub> |
 
 ## 🏴 Hack The Box
 

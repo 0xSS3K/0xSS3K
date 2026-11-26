@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=190&section=header&text=Bruno%20G%C3%B3mez&fontSize=40&fontColor=d9a441&fontAlignY=38" alt="Bruno Gómez" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=190&section=header&text=Bruno%20G%C3%B3mez%20Ferrara&fontSize=38&fontColor=d9a441&fontAlignY=38" alt="Bruno Gómez Ferrara" />
 </p>
 
 <p align="center">
